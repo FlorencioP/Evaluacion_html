@@ -82,6 +82,7 @@ footer {
 }
 
 footer #navfot {
+    clear: both;
     padding-top: 0.8%;
     float: left;
     width: 40%;
